@@ -15,7 +15,8 @@ alter table <table_name> MODIFY (col1:type1....colN:typeN)
 
 truncate table <table_name>
 
-insert into <table_name> (col1, col2, col3,.... col N) values (value1, value2, value3, .... valueN);
+insert into <table_name> (col1, col2, col3,.... col N) values (value1, value2, value3, .... valueN)
+
 update <table_name> set (col1=value1,col2=val2,... colN=valN) where (colN = valN)
 
 
