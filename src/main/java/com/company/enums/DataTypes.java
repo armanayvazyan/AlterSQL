@@ -3,7 +3,7 @@ package com.company.enums;
 public enum DataTypes {
 
     STRING(String.class),
-    INTEGER(Integer.class);
+    NUMBER(Integer.class);
 
     private Class type;
 
